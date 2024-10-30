@@ -1,0 +1,20 @@
+# step 1
+p = 7
+q = 13
+
+# step 2
+n = p*q
+print("n=",n)
+
+# step 3 
+phi = (p-1)*(q-1)
+
+# step 4 
+e = 4
+while(e<phi):
+if (math.gdc(e, phi) == 1)
+  break
+else : 
+  e += 1
+
+print("e =", e)
